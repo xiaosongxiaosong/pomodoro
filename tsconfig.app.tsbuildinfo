@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/background.ts","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/PomodoroTimer.tsx","./src/components/TaskForm.tsx","./src/components/TaskList.tsx"],"errors":true,"version":"5.6.3"}

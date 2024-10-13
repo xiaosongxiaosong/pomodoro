@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Pomodoro",
+  "version": "1.0",
+  "description": "A Pomodoro timer assistant for Chrome",
+  "permissions": ["alarms", "notifications", "storage", "tabs"],
+  "background": {
+    "service_worker": "js/background.js"
+  },
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  }
+}
